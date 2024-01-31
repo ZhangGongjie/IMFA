@@ -1,0 +1,3 @@
+# ninja log v5
+10	15670	1683814650550829000	/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/build/temp.linux-x86_64-3.8/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/geometric_kernel_attn_cuda.o	21cd2bf4fd8ea880
+8	18616	1683814653313741000	/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/build/temp.linux-x86_64-3.8/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/version.o	ecbd689a7c03e6d9

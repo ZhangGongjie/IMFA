@@ -1,0 +1,17 @@
+setup.py
+/aps-data/gongjiezhang/Dev/MapVectorization/MapTR_Official/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/geometric_kernel_attn_cuda.cu
+/aps-data/gongjiezhang/Dev/MapVectorization/MapTR_Official/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/version.cpp
+/aps-data/gongjiezhang/Dev/MapVectorization/PointAsQuery+Rasterization/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/geometric_kernel_attn_cuda.cu
+/aps-data/gongjiezhang/Dev/MapVectorization/PointAsQuery+Rasterization/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/version.cpp
+/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery+Rasterization/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/geometric_kernel_attn_cuda.cu
+/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery+Rasterization/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/version.cpp
+/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery+Rasterization_PtsL1CostLoss1.0_0Dropout_line1.0poly1.0_ImprovedMatchingAndLoss/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/geometric_kernel_attn_cuda.cu
+/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery+Rasterization_PtsL1CostLoss1.0_0Dropout_line1.0poly1.0_ImprovedMatchingAndLoss/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/version.cpp
+/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/geometric_kernel_attn_cuda.cu
+/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn/src/version.cpp
+GeometricKernelAttention.egg-info/PKG-INFO
+GeometricKernelAttention.egg-info/SOURCES.txt
+GeometricKernelAttention.egg-info/dependency_links.txt
+GeometricKernelAttention.egg-info/top_level.txt
+function/__init__.py
+function/geometric_kernel_attn_func.py
