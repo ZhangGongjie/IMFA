@@ -1,3 +1,0 @@
-# ninja log v5
-6	10953	1683814729147940000	/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/losses/diff_ras/build/temp.linux-x86_64-3.8/rasterize_cuda_kernel.o	6f7327af21f720b9
-5	16029	1683814734165395000	/aps-data/gongjiezhang/Dev/MapVectorization_NeurIPS23/PointAsQuery_v2_256x128/projects/mmdet3d_plugin/maptr/losses/diff_ras/build/temp.linux-x86_64-3.8/rasterize_cuda.o	6d229654f1d488d2
